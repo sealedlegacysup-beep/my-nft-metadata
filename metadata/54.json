@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #54 - mirror_curse",
+  "name": "Mirror Curse",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 54",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/54.gif",
   "attributes": [
@@ -14,6 +14,26 @@
     {
       "trait_type": "Box Name",
       "value": "mirror_curse"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Alamut"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Late"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Weathered Iron"
     }
   ]
 }
