@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #60 - gold_alliance",
+  "name": "Gold Alliance",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 60",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/60.gif",
   "attributes": [
@@ -14,6 +14,26 @@
     {
       "trait_type": "Box Name",
       "value": "gold_alliance"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Powerful"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Azerbaijan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Silver"
     }
   ]
 }
