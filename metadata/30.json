@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #30 - charm_new_dawn",
+  "name": "Charm New Dawn",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 30",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/30.gif",
   "attributes": [
@@ -14,6 +14,26 @@
     {
       "trait_type": "Box Name",
       "value": "charm_new_dawn"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Azerbaijan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Late"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Silver"
     }
   ]
 }
