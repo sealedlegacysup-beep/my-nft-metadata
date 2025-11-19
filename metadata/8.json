@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #8 - conjurer_rain",
+  "name": "Conjurer Rain",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 8",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/8.gif",
   "attributes": [
@@ -14,6 +14,26 @@
     {
       "trait_type": "Box Name",
       "value": "conjurer_rain"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Khorasan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Gold"
     }
   ]
 }
