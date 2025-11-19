@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #50 - breeze_kiss",
+  "name": "Breeze Kiss",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 50",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/50.gif",
   "attributes": [
@@ -14,6 +14,26 @@
     {
       "trait_type": "Box Name",
       "value": "breeze_kiss"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Wind"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Azerbaijan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Late"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Silver"
     }
   ]
 }
