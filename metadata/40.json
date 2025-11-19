@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #40 - siren_song",
+  "name": "Siren Song",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 40",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/40.gif",
   "attributes": [
@@ -14,6 +14,26 @@
     {
       "trait_type": "Box Name",
       "value": "siren_song"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Powerful"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Azerbaijan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Late"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Gold"
     }
   ]
 }
