@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #11 - dowser_charm",
+  "name": "Dowser_Charm",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 11",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/11.gif",
   "attributes": [
@@ -16,4 +16,5 @@
       "value": "dowser_charm"
     }
   ]
+
 }
