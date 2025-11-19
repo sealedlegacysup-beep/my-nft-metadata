@@ -14,7 +14,26 @@
     {
       "trait_type": "Box Name",
       "value": "hourglass_time"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Alamut"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Lost"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Gold"
     }
   ]
-
 }
