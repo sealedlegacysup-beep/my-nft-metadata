@@ -1,5 +1,5 @@
 {
-  "name": "Glyph_Bond",
+  "name": "Glyph Bond",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 10",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/10.gif",
   "attributes": [
@@ -18,3 +18,4 @@
   ]
 
 }
+
