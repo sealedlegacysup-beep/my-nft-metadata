@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #15 - cloak_shade",
+  "name": "Cloak Shade",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 15",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/15.gif",
   "attributes": [
@@ -16,4 +16,5 @@
       "value": "cloak_shade"
     }
   ]
+
 }
