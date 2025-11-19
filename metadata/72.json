@@ -1,5 +1,5 @@
 {
-  "name": "Ancient Key #6 - silver_tongue",
+  "name": "Silver Tongue",
   "description": "An ancient key that can unlock specific mysterious boxes. Key ID: 6",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/keys/6.gif",
   "attributes": [
@@ -14,6 +14,14 @@
     {
       "trait_type": "Key Name",
       "value": "silver_tongue"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Riddle"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Riddle"
     }
   ]
 }
