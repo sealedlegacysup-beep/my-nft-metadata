@@ -1,5 +1,5 @@
 {
-  "name": "Ancient Key #12 - cosmic_union",
+  "name": "Cosmic Union",
   "description": "An ancient key that can unlock specific mysterious boxes. Key ID: 12",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/keys/12.gif",
   "attributes": [
@@ -14,6 +14,14 @@
     {
       "trait_type": "Key Name",
       "value": "cosmic_union"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Riddle"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Riddle"
     }
   ]
 }
