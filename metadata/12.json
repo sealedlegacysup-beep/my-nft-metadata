@@ -14,8 +14,26 @@
     {
       "trait_type": "Box Name",
       "value": "wheel_fortune"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Khorasan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Lost"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Gold"
     }
   ]
-
 }
-
