@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #19 - invoke_harvest",
+  "name": "Invoke Harvest",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 19",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/19.gif",
   "attributes": [
@@ -16,4 +16,5 @@
       "value": "invoke_harvest"
     }
   ]
+
 }
