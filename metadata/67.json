@@ -1,5 +1,5 @@
 {
-  "name": "Ancient Key #1 - lost_echo",
+  "name": "Lost Echo",
   "description": "An ancient key that can unlock specific mysterious boxes. Key ID: 1",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/keys/1.gif",
   "attributes": [
@@ -14,6 +14,14 @@
     {
       "trait_type": "Key Name",
       "value": "lost_echo"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Riddle"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Riddle"
     }
   ]
 }
