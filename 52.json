@@ -1,0 +1,19 @@
+{
+  "name": "Mysterious Box #52 - diamond_mind",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 52",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/52.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "52"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "diamond_mind"
+    }
+  ]
+}

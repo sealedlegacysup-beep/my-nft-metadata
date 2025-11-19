@@ -1,0 +1,19 @@
+{
+  "name": "Mysterious Box #21 - mirror_truth",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 21",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/21.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "21"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "mirror_truth"
+    }
+  ]
+}

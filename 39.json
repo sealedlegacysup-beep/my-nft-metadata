@@ -1,0 +1,19 @@
+{
+  "name": "Mysterious Box #39 - citadel_lost",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 39",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/39.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "39"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "citadel_lost"
+    }
+  ]
+}

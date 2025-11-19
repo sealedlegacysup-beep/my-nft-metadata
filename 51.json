@@ -1,0 +1,19 @@
+{
+  "name": "Mysterious Box #51 - shadow_walk",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 51",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/51.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "51"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "shadow_walk"
+    }
+  ]
+}

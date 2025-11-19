@@ -1,0 +1,19 @@
+{
+  "name": "Mysterious Box #61 - shield_ear",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 61",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/61.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "61"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "shield_ear"
+    }
+  ]
+}
