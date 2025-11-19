@@ -1,0 +1,19 @@
+{
+  "name": "Mysterious Box #23 - chain_oath",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 23",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/23.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "23"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "chain_oath"
+    }
+  ]
+}

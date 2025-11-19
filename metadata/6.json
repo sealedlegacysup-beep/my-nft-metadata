@@ -1,0 +1,19 @@
+{
+  "name": "Mysterious Box #6 - aegis_flame",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 6",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/6.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "6"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "aegis_flame"
+    }
+  ]
+}

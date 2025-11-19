@@ -1,0 +1,19 @@
+{
+  "name": "Mysterious Box #27 - spring_tears",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 27",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/27.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "27"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "spring_tears"
+    }
+  ]
+}

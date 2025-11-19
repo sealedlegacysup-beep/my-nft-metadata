@@ -1,0 +1,19 @@
+{
+  "name": "Mysterious Box #37 - bless_rain",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 37",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/37.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "37"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "bless_rain"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Mysterious Box #47 - dream_bridge",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 47",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/47.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "47"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "dream_bridge"
+    }
+  ]
+}

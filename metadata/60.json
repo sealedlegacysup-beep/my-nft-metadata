@@ -1,0 +1,19 @@
+{
+  "name": "Mysterious Box #60 - gold_alliance",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 60",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/60.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "60"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "gold_alliance"
+    }
+  ]
+}

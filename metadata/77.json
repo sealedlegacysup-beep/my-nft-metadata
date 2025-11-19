@@ -1,0 +1,19 @@
+{
+  "name": "Ancient Key #11 - forbidden_lib",
+  "description": "An ancient key that can unlock specific mysterious boxes. Key ID: 11",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/keys/11.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Key ID",
+      "value": "11"
+    },
+    {
+      "trait_type": "Key Name",
+      "value": "forbidden_lib"
+    }
+  ]
+}
