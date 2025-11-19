@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #1 - mark_winds",
+  "name": "Mark_Winds",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 1",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/1.gif",
   "attributes": [
@@ -16,4 +16,5 @@
       "value": "mark_winds"
     }
   ]
+
 }
