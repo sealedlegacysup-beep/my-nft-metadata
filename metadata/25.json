@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #25 - dragon_will",
+  "name": "Dragon Will",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 25",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/25.gif",
   "attributes": [
@@ -14,6 +14,26 @@
     {
       "trait_type": "Box Name",
       "value": "dragon_will"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Powerful"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Azerbaijan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Weathered Iron"
     }
   ]
 }
