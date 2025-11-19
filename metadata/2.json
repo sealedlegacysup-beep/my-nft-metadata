@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #2 - seal_silence",
+  "name": "Seal Silence",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 2",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/2.gif",
   "attributes": [
@@ -16,4 +16,5 @@
       "value": "seal_silence"
     }
   ]
+
 }
