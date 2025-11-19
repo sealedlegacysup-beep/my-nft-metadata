@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #62 - scroll_guard",
+  "name": "Scroll Guard",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 62",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/62.gif",
   "attributes": [
@@ -14,6 +14,26 @@
     {
       "trait_type": "Box Name",
       "value": "scroll_guard"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Weak"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Fars"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Classical"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Bone"
     }
   ]
 }
