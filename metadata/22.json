@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #22 - hourglass_time",
+  "name": "Hourglass Time",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 22",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/22.gif",
   "attributes": [
@@ -16,4 +16,5 @@
       "value": "hourglass_time"
     }
   ]
+
 }
