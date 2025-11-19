@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #59 - forge_destroy",
+  "name": "Forge Destroy",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 59",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/59.gif",
   "attributes": [
@@ -14,6 +14,26 @@
     {
       "trait_type": "Box Name",
       "value": "forge_destroy"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Alamut"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Classical"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Gold"
     }
   ]
 }
