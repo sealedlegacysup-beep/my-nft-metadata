@@ -1,5 +1,5 @@
 {
-  "name": "Ancient Key #5 - silent_shadow",
+  "name": "Silent Shadow",
   "description": "An ancient key that can unlock specific mysterious boxes. Key ID: 5",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/keys/5.gif",
   "attributes": [
@@ -14,6 +14,14 @@
     {
       "trait_type": "Key Name",
       "value": "silent_shadow"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Riddle"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Riddle"
     }
   ]
 }
