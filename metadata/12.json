@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #12 - wheel_fortune",
+  "name": "Wheel_Fortune",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 12",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/12.gif",
   "attributes": [
@@ -16,4 +16,5 @@
       "value": "wheel_fortune"
     }
   ]
+
 }
