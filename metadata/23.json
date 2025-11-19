@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #23 - chain_oath",
+  "name": "Chain Oath",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 23",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/23.gif",
   "attributes": [
@@ -16,4 +16,5 @@
       "value": "chain_oath"
     }
   ]
+
 }
