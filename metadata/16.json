@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #16 - spark_inspiration",
+  "name": "Spark Inspiration",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 16",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/16.gif",
   "attributes": [
@@ -16,4 +16,5 @@
       "value": "spark_inspiration"
     }
   ]
+
 }
