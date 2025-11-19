@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #49 - alchemist_fire",
+  "name": "Alchemist Fire",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 49",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/49.gif",
   "attributes": [
@@ -14,6 +14,26 @@
     {
       "trait_type": "Box Name",
       "value": "alchemist_fire"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Powerful"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Alamut"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Gold"
     }
   ]
 }
