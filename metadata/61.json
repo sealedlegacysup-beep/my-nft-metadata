@@ -1,5 +1,5 @@
 {
-  "name": "Mysterious Box #61 - shield_ear",
+  "name": "Shield Ear",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 61",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/61.gif",
   "attributes": [
@@ -14,6 +14,26 @@
     {
       "trait_type": "Box Name",
       "value": "shield_ear"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Isfahan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Late"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Bronze"
     }
   ]
 }
