@@ -1,5 +1,5 @@
 {
-  "name": "Shroud_Unseen",
+  "name": "Shroud Unseen",
   "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 13",
   "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/13.gif",
   "attributes": [
@@ -18,3 +18,4 @@
   ]
 
 }
+
