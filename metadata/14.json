@@ -1,0 +1,39 @@
+{
+  "name": "Whisper Covenant",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 14",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/14.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "14"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "whisper_covenant"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Wind"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Weak"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Azerbaijan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Bone"
+    }
+  ]
+}
