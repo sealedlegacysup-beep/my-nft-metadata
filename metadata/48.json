@@ -1,0 +1,39 @@
+{
+  "name": "Puzzle Path",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 48",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/48.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "48"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "puzzle_path"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Khorasan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Classical"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Weathered Iron"
+    }
+  ]
+}

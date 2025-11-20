@@ -1,0 +1,39 @@
+{
+  "name": "Third Eye",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 43",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/43.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "43"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "third_eye"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Khorasan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Lost"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Gold"
+    }
+  ]
+}

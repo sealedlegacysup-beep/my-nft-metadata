@@ -1,0 +1,39 @@
+{
+  "name": "Moon Embrace",
+  "description": "A mysterious sealed box containing ancient secrets. Requires a specific key to open. Box ID: 46",
+  "image": "https://raw.githubusercontent.com/sealedlegacysup-beep/my-nft-metadata/main/images/boxes/46.gif",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Box"
+    },
+    {
+      "trait_type": "Box ID",
+      "value": "46"
+    },
+    {
+      "trait_type": "Box Name",
+      "value": "moon_embrace"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Spell Power",
+      "value": "Powerful"
+    },
+    {
+      "trait_type": "Region",
+      "value": "Isfahan"
+    },
+    {
+      "trait_type": "Era",
+      "value": "Ancient"
+    },
+    {
+      "trait_type": "Lock Material",
+      "value": "Silver"
+    }
+  ]
+}
